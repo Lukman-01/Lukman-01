@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukman Abdulyekeen</h1>
-<h3 align="center">A Fullstack Web3 Developer(Heavy Backend)</h3>
+<h3 align="center">A Fullstack Web3 Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtthdLuIGpO4jobk3Z_4iim0kjzI5iDeiRsw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukman-01&label=Profile%20views&color=0e75b6&style=flat" alt="lukman-01" /> </p>
