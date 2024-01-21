@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Solidity,Smart Contract, Blockchain**
 
-- 📫 How to reach me **abdulyekeenlukman@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/icon_70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icon_70" height="30" width="40" /></a>
