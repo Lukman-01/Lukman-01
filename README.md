@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Projects involving NFT, DAO and DEF**
 
-- 🌱 I’m currently learning **Smart Contract Securities, Zero knowledge using (Circom, Noir and Cairo)**
+- 🌱 I’m currently learning **Smart Contract Securities, Zk and Other EVM Compatible Blockchains**
 
-- 👯 I’m looking to collaborate on **Any Blockchain Projects.**
+- 👯 I’m looking to collaborate on **Blockchain Projects, Researchs, Documentation and Security**
 
 - 💬 Ask me about **Solidity, Rust, Smart Contract, Blockchain**
 
