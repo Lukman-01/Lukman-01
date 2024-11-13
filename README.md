@@ -4,14 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukman-01&label=Profile%20views&color=0e75b6&style=flat" alt="lukman-01" /> </p>
 
-- 🔭 I’m currently working on **Projects involving NFT, DAO and DEFI**
-
-- 🌱 I’m currently learning **Smart Contract Securities, Zk and Other EVM Compatible Blockchains**
-
-- 👯 I’m looking to collaborate on **Blockchain Projects, Researchs, Documentation and Security**
-
-- 💬 Ask me about **Solidity, Cairo, Rust, Smart Contract, Blockchain**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/icon_70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icon_70" height="30" width="40" /></a>
